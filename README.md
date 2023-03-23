@@ -5,4 +5,4 @@
 
 ## How to publish the updated content?
 
-Simply run git push to the master branch.
+First commit you change, and then run **git push** to the master branch.

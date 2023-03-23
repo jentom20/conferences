@@ -6,29 +6,27 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  theme_day: cyberpunk
+  theme_night: dark
   font: minimal
   font_size: L
 
 # SEO
-
-marketing:
-  seo:
-    site_type: Project
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo notes theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
+# marketing:
+#   seo:
+#     site_type: Project
+#     local_business_type: ''
+#     org_name: ''
+#     description: 'A highly-customizable Hugo notes theme powered by Wowchemy website builder.'
+#     twitter: 'wowchemy'
+#   analytics:
+#     google_analytics: ''
+#     baidu_tongji: ''
+#   verification:
+#     google: ''
+#     baidu: ''
 
 # Site header
-
 header:
   navbar:
     enable: false
@@ -65,7 +63,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/wowchemy/hugo-second-brain-theme'
+    url: 'https://github.com/nann-cheng/conferences/'
     content_dir: content
     branch: main
   comment:
